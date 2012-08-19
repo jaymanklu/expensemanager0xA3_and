@@ -1,0 +1,1 @@
+This is a simple expense manager in development using iterative process. Full project float expected by Dec 2012
