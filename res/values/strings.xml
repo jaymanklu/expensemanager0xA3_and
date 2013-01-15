@@ -1,9 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <string name="app_name">Expense Manager</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
-    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_home">Expense Manager</string>
     <string name="title">EXPENSE MANAGER</string>
+    <string name="btnSalary">Salary</string>
+    <string name="btnAddIncome">Additional Income</string>
+    <string name="btnExpenses">Expenses</string>
+    <string name="btnDebt">Debt</string>
+    <string name="btnSavings">Savings</string>
+    <string name="title_activity_salary">Salary</string>
+    <string name="title_activity_add_income">Additional Income</string>
+    <string name="title_activity_expenses">Expenses</string>
+    <string name="title_activity_settings">Settings</string>
 
 </resources>

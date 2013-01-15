@@ -8,7 +8,7 @@
     <Button
         android:id="@+id/AddIncome"
         android:layout_width="match_parent"
-        android:layout_height="50dp"
+        android:layout_height="40dp"
         android:layout_below="@+id/Salary"
         android:layout_centerHorizontal="true"
         android:text="@string/btnAddIncome"
@@ -17,7 +17,7 @@
     <Button
         android:id="@+id/Expenses"
         android:layout_width="match_parent"
-        android:layout_height="50dp"
+        android:layout_height="40dp"
         android:layout_below="@+id/AddIncome"
         android:layout_centerHorizontal="true"
         android:text="@string/btnExpenses"
@@ -26,7 +26,7 @@
     <Button
         android:id="@+id/Debt"
         android:layout_width="match_parent"
-        android:layout_height="50dp"
+        android:layout_height="40dp"
         android:layout_below="@+id/Expenses"
         android:layout_centerHorizontal="true"
         android:text="@string/btnDebt"
@@ -35,7 +35,7 @@
     <Button
         android:id="@+id/Savings"
         android:layout_width="match_parent"
-        android:layout_height="50dp"
+        android:layout_height="40dp"
         android:layout_below="@+id/Debt"
         android:layout_centerHorizontal="true"
         android:text="@string/btnSavings"
@@ -44,10 +44,10 @@
     <Button
         android:id="@+id/Salary"
         android:layout_width="match_parent"
-        android:layout_height="50dp"
+        android:layout_height="40dp"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:layout_marginTop="96dp"
+        android:layout_marginTop="35dp"
         android:text="@string/btnSalary"
         android:textAppearance="?android:attr/textAppearanceMedium" />
     
