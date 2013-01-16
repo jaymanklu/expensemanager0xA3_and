@@ -38,6 +38,14 @@
             android:name="noncom.jay.xA3.SettingsActivity"
             android:label="@string/title_activity_settings" >
         </activity>
+        <activity
+            android:name="noncom.jay.xA3.DebtActivity"
+            android:label="@string/title_activity_debt" >
+        </activity>
+        <activity
+            android:name="noncom.jay.xA3.SavingsActivity"
+            android:label="@string/title_activity_savings" >
+        </activity>
     </application>
 
 </manifest>

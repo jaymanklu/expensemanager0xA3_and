@@ -15,5 +15,17 @@
     <string name="title_activity_add_income">Additional Income</string>
     <string name="title_activity_expenses">Expenses</string>
     <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_debt">Debt</string>
+    <string name="title_activity_savings">Savings</string>
+    <string name="SalaryTitle">Salary Accounts</string>
+    <string name="Salarydet1">The Salary for the Current Month of</string>
+    <string name="btnAddComp">Add Component</string>
+    <string name="btnReviseSalary">Revise Current Salary</string>
+    <string name="addIncTitle">Addtional Income Accounts</string>
+    <string name="addIncdet1">The Income for the Current Month is</string>
+    <string name="addIncRevise">Revise Income</string>
+    <string name="expTitle">Expenses Accounts</string>
+    <string name="expdet1">The Expenses for the Current Month are</string>
+    <string name="addIncAddExpenseText">Add Expenses</string>
 
 </resources>
